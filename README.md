@@ -53,5 +53,3 @@ added .txt in the list under assets
 n/a
 
 ## Tests
-
-go to index.html then to default browser to see
