@@ -53,6 +53,3 @@ added .txt in the list under assets
 n/a
 
 ## Tests
-
-go to index.html then to default browser to see
-![image](https://github.com/user-attachments/assets/e3a31287-c8ae-48db-93ff-f78370d4c0ed)
