@@ -1,12 +1,21 @@
-# README
-## User Story
+# First experience in code
 
-- As a boot camp student,
-- I want the prework notes to  be structured on a webpage,
-- So that I can easily find and read the information.
+## Description
 
-## Acceptance Criteria
+Learning how to use HTML, CSS, GitHub, Javascript and Chrome Dev tools.  Learned how to communicate with terminal and github
 
-- Given the prework project repository,
-- When I view the README for the repository,
-- Then I can see a professional README that provides information on the project and how to use it.
+## Installation
+
+N/A
+
+## Usage
+
+This showed instruction on how to navigate through the systems however, i had to use outside resources to get answers that was not found in the study guide.  The xpert learning assistance was a last resource but learned some new commands.
+
+## Credits
+
+N/A
+
+## License
+
+Please refer to the LICENSE in the repo.
